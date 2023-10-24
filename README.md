@@ -9,6 +9,6 @@ My goal is take notes and build projects for each section after I finish the sec
 
 ### 1.The Render Props Pattern
 
-### **2.Higher-Order Components (HOC)**
+### **_2.Higher-Order Components (HOC)_**
 
 ### 3.The Compound Component Pattern
